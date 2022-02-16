@@ -1,0 +1,288 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgba(255, 255, 255, 0.3);
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    padding-right: 50px;
+    z-index: 2;
+
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.janl {
+    margin-top: 10px;
+}
+
+.janl {
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+
+.a {
+    color: #253659;
+    padding: 20px 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    bottom: 15px;
+    right: 90px;
+}
+
+.a:hover {
+    color: #253659;
+    padding: 5px 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    bottom: 15px;
+    border-bottom: 2px solid #253659;
+}
+
+button {
+    padding: 9px 10px;
+    background: #253659;
+    color: white;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+    bottom: 15px;
+    right: 75px;
+}
+
+i {
+    color: #253659;
+    bottom: 15px;
+    font-size: 35px;
+    width: 25px;
+    height: 25px;
+    padding: 0px 5px;
+    position: relative;
+    right: 50px;
+}
+
+tel {
+    margin-right: 50px;
+    position: relative;
+    bottom: 15px;
+}
+
+.Janybek {
+    background: url("../img/Baytik_poselok_View030000.png") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.Janybek2 {
+
+}
+
+.janhh {
+    margin-top: 00px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 70px;
+}
+
+.janybek2 {
+    padding-top: 30px;
+    padding-right: 250px;
+    padding-left: 250px;
+    height: 400px;
+}
+
+.janh {
+    text-align: center;
+    color: #253659;
+    font-family: sans-serif;
+    line-height: 67px;
+    padding-top: 0px;
+    padding-right: 50px;
+    font-size: 30px;
+}
+
+.p1 {
+    text-align: center;
+    color: #253659;
+    font-family: sans-serif;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+.janybek21 {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.img {
+    text-align: center;
+
+}
+
+p.img {
+    color: #253659;
+    font-family: sans-serif;
+}
+
+.janybek3 {
+    background: url("/img/Baytik_2.png") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 750px;
+    position: absolute;
+}
+
+.jan3h {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+.foto {
+    margin-left: 200px;
+    background: rgba(37, 54, 89, 0.8);
+    width: 500px;
+    height: 300px;
+
+}
+
+.foto1 {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+
+.fotoh {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    padding-top: 20px;
+
+}
+
+.fotop {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 50%;
+    margin-left: 25%;
+    border-bottom: 1px solid #009EE3;
+}
+
+.fotopp {
+    color: white;
+    text-align: left;
+    font-size: 15px;
+    line-height: 1.9;
+    font-family: sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.foto2 {
+    background: rgba(37, 54, 89, 0.8);
+    width: 500px;
+    height: 150px;
+    position: absolute;
+    right: 50px;
+    top: 300px;
+}
+
+.fotoi {
+    position: absolute;
+    right: 450px;
+    bottom: 70px;
+}
+
+.foto2h {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.p2 {
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    border-bottom: 1px solid #009EE3;
+}
+
+.p2p {
+    color: white;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.foto3 {
+    background: rgba(37, 54, 89, 0.8);
+    width: 500px;
+    height: 200px;
+    margin-left: 600px;
+    margin-top: 60px;
+
+}
+
+.foto3i {
+    position: absolute;
+    left: 550px;
+    top: 460px;
+}
+
+.foto3h {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-top: 25px;
+}
+
+.foto3p {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    border-bottom: 1px solid #009EE3;
+}
+
+.foto3pp {
+    color: white;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    line-height: 1.8;
+}
+
+
+
+
